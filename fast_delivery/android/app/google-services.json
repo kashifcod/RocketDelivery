@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "68817406937",
+    "project_id": "rocketdelivery-d182c",
+    "storage_bucket": "rocketdelivery-d182c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68817406937:android:6ac77ec55b8a1f6a33e7c8",
+        "android_client_info": {
+          "package_name": "com.example.fast_delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWS_0RZQA_56WkMQe0o0oiA1ljzy_0B6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68817406937:android:280dd6773be5b33b33e7c8",
+        "android_client_info": {
+          "package_name": "om.example.fast_delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWS_0RZQA_56WkMQe0o0oiA1ljzy_0B6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
